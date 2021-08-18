@@ -20,8 +20,8 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ['Unik', "Кто это?", "Python программист", "Junior", "Недохакер"],
-        typeSpeed: 120,
+        strings: ['Что', "ты", "тут", "делаешь?"],
+        typeSpeed: 150,
         loop: true,
         cursorChar: "|",
     });
