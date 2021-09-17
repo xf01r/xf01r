@@ -5,6 +5,7 @@ body {
     margin: 0;
     background: var(--back-gif) center;
     background-size: cover;
+    background-color: black;
     display: flex;
     font-family: 'Gotham Pro';
     font: 'Gotham Pro';
